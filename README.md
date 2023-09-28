@@ -1,4 +1,4 @@
-# Thesis-Report
+# Thesis
 
 My thesis for my statistics major.
 
