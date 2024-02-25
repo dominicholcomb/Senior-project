@@ -1,6 +1,6 @@
-# Thesis
+# Senior project
 
-My thesis for my statistics major.
+My senior project for my statistics major.
 
 An investigation of the relationship between religious belief and social views in the US.
 
